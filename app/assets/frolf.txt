@@ -1,0 +1,150 @@
+[
+	{ 	"name":"Paresky Pole",
+		"start":"Between the second and third columns on Chapin Steps.",
+		"goal":"Hit any part of the flag pole on Paresky Lawn.",
+		"notes":"Your first throw must be upside down."
+	},
+
+	{	"name":"Frosh Quad",
+		"start":"Next to the entrance of Sage A.",
+		"goal":"Through the no parking sign across the quad and past Willy A.",
+		"notes":"Watch out for road penalties and pedestrians."
+	},
+
+	{ 	"name":"",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Haystack Monument.",
+		"start":"Behind the bench.",
+		"goal":"Hit the globe on top of the Haystack Monument.",
+		"notes":"Pro tip: lay up."
+	},
+
+	{ 	"name":"Lehman Door",
+		"start":"Behind the Haystack monument.",
+		"goal":"Hit the door to Lehman basement on the left side of Lehman.",
+		"notes":""
+	},
+
+	{ 	"name":"Hubbell",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Doorstep",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Griffin Bench",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Observatory",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+
+	{ 	"name":"Prospect Bench",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Driscoll",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Fieldhouse",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"WCMA",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"The Eyes",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Security",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Hopkins Arch",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+	
+	{
+	 	"name":"The Island",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"The Octagon",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Sundial",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Bronfman Bench",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Clark Bench",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"Mailbox",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"JRC",
+		"start":"",
+		"goal":"",
+		"notes":""
+	},
+
+	{ 	"name":"The Grill",
+		"start":"",
+		"goal":"",
+		"notes":""
+	}
+
+
+
+]
